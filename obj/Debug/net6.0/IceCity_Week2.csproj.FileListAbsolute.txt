@@ -1,0 +1,14 @@
+C:\Users\Compu\source\repos\IceCity_Week2\bin\Debug\net6.0\IceCity_Week2.exe
+C:\Users\Compu\source\repos\IceCity_Week2\bin\Debug\net6.0\IceCity_Week2.deps.json
+C:\Users\Compu\source\repos\IceCity_Week2\bin\Debug\net6.0\IceCity_Week2.runtimeconfig.json
+C:\Users\Compu\source\repos\IceCity_Week2\bin\Debug\net6.0\IceCity_Week2.dll
+C:\Users\Compu\source\repos\IceCity_Week2\bin\Debug\net6.0\IceCity_Week2.pdb
+C:\Users\Compu\source\repos\IceCity_Week2\obj\Debug\net6.0\IceCity_Week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compu\source\repos\IceCity_Week2\obj\Debug\net6.0\IceCity_Week2.AssemblyInfoInputs.cache
+C:\Users\Compu\source\repos\IceCity_Week2\obj\Debug\net6.0\IceCity_Week2.AssemblyInfo.cs
+C:\Users\Compu\source\repos\IceCity_Week2\obj\Debug\net6.0\IceCity_Week2.csproj.CoreCompileInputs.cache
+C:\Users\Compu\source\repos\IceCity_Week2\obj\Debug\net6.0\IceCity_Week2.dll
+C:\Users\Compu\source\repos\IceCity_Week2\obj\Debug\net6.0\refint\IceCity_Week2.dll
+C:\Users\Compu\source\repos\IceCity_Week2\obj\Debug\net6.0\IceCity_Week2.pdb
+C:\Users\Compu\source\repos\IceCity_Week2\obj\Debug\net6.0\IceCity_Week2.genruntimeconfig.cache
+C:\Users\Compu\source\repos\IceCity_Week2\obj\Debug\net6.0\ref\IceCity_Week2.dll

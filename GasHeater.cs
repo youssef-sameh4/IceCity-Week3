@@ -1,9 +1,9 @@
 ﻿
-    class GasHeater:Heater
-    {
+class GasHeater : Heater
+{
     public override double EffectivePower()
     {
-        return PowerValue*0.85;
+        return PowerValue * 0.85;
     }
 
 }
